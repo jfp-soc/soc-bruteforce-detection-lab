@@ -1,3 +1,6 @@
+<img width="1451" height="676" alt="Screenshot 2026-02-17 095758" src="https://github.com/user-attachments/assets/ac65c07a-27dc-465e-9662-eceaf41f7816" />
+<img width="1223" height="994" alt="Screenshot 2026-02-17 095749" src="https://github.com/user-attachments/assets/d4c03d62-533d-403a-87de-845e5d4e86bc" />
+<img width="1023" height="234" alt="Screenshot 2026-02-17 095722" src="https://github.com/user-attachments/assets/8ed20a52-448e-4a2e-8cb3-ec9c5dce14f3" />
 # Windows Brute Force Detection Lab
 
 ## Overview
