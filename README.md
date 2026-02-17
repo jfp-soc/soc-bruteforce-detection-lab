@@ -44,3 +44,9 @@ Technique: T1110 – Brute Force
 - Threat detection methodology
 - Basic incident investigation
 - Security documentation
+
+## Lessons Learned
+
+- Repeated failed authentication attempts are a common brute force indicator.
+- Monitoring Event ID 4625 is critical for detecting unauthorized access attempts.
+- Proper logging and alert thresholds reduce response time.
