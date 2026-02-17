@@ -50,3 +50,37 @@ Technique: T1110 – Brute Force
 - Repeated failed authentication attempts are a common brute force indicator.
 - Monitoring Event ID 4625 is critical for detecting unauthorized access attempts.
 - Proper logging and alert thresholds reduce response time.
+
+- # Windows Brute Force Detection Lab
+
+## Overview
+This project simulates the detection and investigation of a potential brute force attack using Linux/SSH authentication logs. 
+The goal is to demonstrate log analysis, attack detection, and incident reporting skills.
+
+---
+
+## Scenario
+Multiple failed SSH login attempts were detected from an external IP targeting high-value accounts (admin, root). 
+A successful login occurred from a separate internal user. The pattern indicates potential automated brute force activity.
+
+---
+
+## Skills Demonstrated
+- Log analysis and interpretation
+- Detection of suspicious login patterns
+- Risk assessment and incident prioritization
+- False positive analysis
+- MITRE ATT&CK mapping (T1110 – Brute Force)
+- Security recommendations and mitigation planning
+
+---
+
+## Evidence
+- `auth.log` file showing failed login attempts
+- Incident report (`incident_report.md`) documenting investigation, timeline, and reasoning
+
+---
+
+## Outcome
+Identified brute force activity with high confidence and recommended mitigations to prevent future attacks.
+
